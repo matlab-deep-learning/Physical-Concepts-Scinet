@@ -25,10 +25,10 @@ Once trained, the network is used as follows:
 
 
 ## Setup
-The repository contains MATLAB® implementation code as well as MATLAB® trained models. 
-The demo is implemented as a MATLAB® project. The project will manage all paths and shortcuts you need.
+The repository contains MATLAB® implementation code as well as MATLAB trained models. 
+The demo is implemented as a MATLAB project. The project will manage all paths and shortcuts you need.
 To Run:
-1. Open the MATLAB® project Scinet.prj
+1. Open the MATLAB project Scinet.prj
 2. (optional) run "Read instructions" from project shortcuts panel
 
 ![](shortcuts_screenshot.png)
@@ -40,7 +40,7 @@ Requires MATLAB release R2019b or newer
 
 
 ## Getting Started 
-- Run "1-trainAndTestScinetPendulum" from project shortcuts panel or use trainAndTestScinetPendulum.mlx livescript to train and test the SciNet network for a damped pendulum system. 
+- Run "1-trainAndTestScinetPendulum" from project shortcuts panel or use trainAndTestScinetPendulum.mlx livescript to train and test the SciNet network for a damped linear oscillator. 
 - Run "2-postProcess" from project shortcuts panel or use the livescript postProcess.mlx to load trainings results, test the model prediction on new data and compare the latent neuron activations with the findings of the paper (https://arxiv.org/abs/1807.10300v3) (page 12).
 - Optionally, for a complete list of all files and additional instructions you can run "Read instructions" from project shortcuts panel or open Instructions.mlx livescript.
 
