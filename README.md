@@ -2,7 +2,8 @@
 
 <!-- ![![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title) --> 
 
-In this repository, we implemented and trained the SciNet network described in https://arxiv.org/abs/1807.10300v3 "Discovering physical concepts with neural networks" by R. Iten, T. Metger, H.Wilming, L. del Rio, and R. Renner.
+In this repository, we implemented and trained the SciNet network described in: [https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.010508](Iten, R., Metger, T., Wilming, H., Rio, L., & Renner, R. (2020). Discovering Physical Concepts with Neural Networks. Phys. Rev. Lett., 124, 010508.)
+[[arXiv:1807.10300v3](https://arxiv.org/abs/1807.10300v3)].
 SciNet attempts to formalize a simplified view of physical modelling thinking process and translate it into a neural network architecture.
 
 ![](scinet.png)
