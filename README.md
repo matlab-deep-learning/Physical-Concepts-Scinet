@@ -46,7 +46,7 @@ Requires MATLAB release R2019b or newer
 - Optionally, for a complete list of all files and additional instructions you can run "Read instructions" from project shortcuts panel or open Instructions.mlx livescript.
 
 ## License
-The license for Discovering physical concepts with neural networks is available in the [LICENSE.TXT](LICENSE.TXT) file in this GitHub repository.
+The license for Discovering physical concepts with neural networks is available in the LICENSE.txt file in this GitHub repository.
 
 ## Community Support
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
