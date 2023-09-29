@@ -2,6 +2,8 @@
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/93955-physical-concepts-scinet)
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matlab-deep-learning/Physical-Concepts-Scinet&project=Scinet.prj&file=src/Instructions.mlx)
+
 In this repository, we implemented and trained the SciNet network described in: [Iten, R., Metger, T., Wilming, H., Rio, L., & Renner, R. (2020). Discovering Physical Concepts with Neural Networks. Phys. Rev. Lett., 124, 010508.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.010508)
 [[arXiv:1807.10300v3](https://arxiv.org/abs/1807.10300v3)].
 SciNet attempts to formalize a simplified view of physical modelling thinking process and translate it into a neural network architecture.
